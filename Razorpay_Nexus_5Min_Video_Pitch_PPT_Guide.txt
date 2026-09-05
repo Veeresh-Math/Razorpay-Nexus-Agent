@@ -1,0 +1,71 @@
+RAZORPAY BUILDATHON 2026
+Razorpay Nexus-Agent: 5-Minute Technical Video Pitch PPT Presentation Blueprint
+PRESENTATION GUIDELINES & SPECIFICATIONS
+Color Palette: Deep Dark Background (Hex #0F172A), Razorpay Teal Accents (Hex #00D2C4), Contrast White.
+Evaluation Bar Target: Eliminate generic marketing metrics. Focus 100% on system constraints, API exception
+boundaries, structural logs, and live code confirmation parameters.
+SLIDE 1: Title & Strategic Platform Positioning (0:00 - 0:45)
+Slide Visual Elements:
+• Title: Razorpay Nexus-Agent Blueprint Core.
+• Framework Metric Banner: [Status: Multi-Track Autonomous Engineering Nodes Active]
+• System Anchor Bullets: Track 01 Alignment | Track 03 Alignment | Track 04 Alignment.
+Word-for-Word Talking Script Track:
+"Hello engineering evaluation panel, my name is [Your Name]. As Razorpay aggressively scales its global
+cross-border capabilities under the RBI PA-CB framework, we face two immediate infrastructure hurdles: handling
+international card network drops without conversion drag, and engineering for the upcoming AI-Buyer revolution
+driven by NPCI's Unified Anonymized Protocol. To solve this holistically, I built Razorpay Nexus-Agent—a
+high-performance unified gateway that bridges Agentic Commerce, Revenue Recovery, and Financial Ledger
+Accounting under a single production repository codebase."
+SLIDE 2: The Integrated Multi-Track Architecture (0:45 - 1:30)
+Slide Visual Elements:
+• Structural Layout Block Flowchart mapping:
+[Agent-Readable Ingest Node] -> [Predictive Fallback Router Node] -> [Pydantic Batch Audit Node]
+• Bullet points detailing architectural responsibilities for each track boundary.
+Word-for-Word Talking Script Track:
+"Instead of engineering isolated toy apps, Nexus operates sequentially across three buildathon track layers. On the
+frontend ingest, we serve programmatic JSON-LD semantic data matrices to autonomous shopping bots. In the
+middle layer, we intercept network-level communication drops using custom error catchers. On the backend layer, we
+run an automated financial controller that processes files against real-time webhook parameters to maintain complete
+transactional transparency under volume pressure."
+SLIDE 3: Live Execution Walkthrough: Track 01 & 03 Validation (1:30 - 3:00)
+Screen Interaction Action Prompt:
+• Transition screen recorder focus directly away from slides into running IDE terminal workspace.
+• Highlight frontend AgentCatalog UI outputting metadata block objects, then execute payment route trace scripts.
+Word-for-Word Talking Script Track:
+"Let's transition directly into our code execution. Notice our frontend template: while rendering a clean UI for human
+buyers, it dynamically injects programmatic JSON-LD microdata tags into the HTML header code so external AI
+assistants can parse product properties cleanly in a single automated request. When an AI bot triggers a purchase
+attempt, look at my terminal window—the FastAPI server catches the decimal numbers, sanitizes them safely to base
+integers to meet Razorpay API specifications, and freezes the thread under a strict 'PENDING_HUMAN_APPROVAL'
+state. The money does not move until verified via a merchant signature token."
+SLIDE 4: Batch Ledger Processing & The Honest Exception Matrix (3:00 - 4:15)
+Screen Interaction Action Prompt:
+• Open your backend processing terminal logs displaying the Track 04 batch loop script execution.
+• Run the test suite using the 50+ record synthetic block array data context.
+Word-for-Word Talking Script Track:
+"To fulfill the Track 04 criteria, our backend features an automated batch finance controller node. Instead of showing a
+single cherry-picked match, we pass a 50+ record data matrix containing deliberate structural anomalies. As you can
+see from our terminal payload response right here, the engine reconciles valid payments against webhooks,
+calculates absolute system accuracy, and splits mismatched prices or invalid compliance codes into an unalterable,
+separate 'honest_exception_list' array. This gives corporate auditors full verification context instantly."
+SLIDE 5: Production Hardening & System Scalability Safeguards (4:15 - 5:00)
+Slide Visual Elements:
+• Structural Performance Table:
+- Ingest Gate: Vercel Serverless Edge Architecture
+- Traffic Control: Upstash Redis Token-Bucket Limiter
+- Task Handling: Asynchronous Non-Blocking Webhook Task Workers
+Word-for-Word Talking Script Track:
+"To ensure our infrastructure handles real high-load scenarios, the system runs on a serverless Next.js edge topology
+paired with Upstash Redis tokens for rate limiting. This completely insulates our transactional channels from memory
+leaks or query spikes during testing windows. Razorpay Nexus-Agent proves that we can make global merchants
+transactable for autonomous AI buyers while keeping operations explainable, bounded, and highly resilient. Thank
+you, and I look forward to joining the engineering team as an intern."
+I CRITICAL SUBMISSION DAY TRANSMISSION
+• Audio Check: Record using high-quality hardware inputs. Eliminate environment echo or room ambient noise
+artifacts.
+• Code Scaling: Scale up your IDE presentation view layout font scaling parameters so judges can read variables
+clearly.
+• Link Permissions: Upload your video asset instantly to YouTube as an unlisted link, or verify your Google Drive
+sharing token configurations allow anyone with the link to view the file.
+This blueprint document is compiled for informational engineering reference applications during hackathon testing sprints. AI models may include execution drift
+anomalies.
